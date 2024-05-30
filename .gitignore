@@ -2,3 +2,4 @@ models/*
 runs/*
 yolov8x.pt
 output_videos/*
+tracker_stubs/*
